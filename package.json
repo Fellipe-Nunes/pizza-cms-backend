@@ -1,0 +1,33 @@
+{
+  "name": "infnet-pizza",
+  "version": "1.0.0",
+  "description": "Projeto de CMS para site de Pizza",
+  "main": "server.js",
+  "engines": {
+    "node": "12.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Thais Viana",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.768.0",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "express-validator": "^6.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

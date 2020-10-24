@@ -14,7 +14,7 @@
   "keywords": [
     "express"
   ],
-  "author": "Thais Viana",
+  "author": "Fellipe Nunes",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.768.0",

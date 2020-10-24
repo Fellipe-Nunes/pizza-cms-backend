@@ -1,5 +1,5 @@
 {
-  "name": "infnet-pizza",
+  "name": "pizza",
   "version": "1.0.0",
   "description": "Projeto de CMS para site de Pizza",
   "main": "server.js",

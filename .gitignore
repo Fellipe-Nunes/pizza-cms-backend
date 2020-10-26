@@ -3,4 +3,4 @@ node_modules/
 default.json
 npm-debug.log
 .DS_Store
-/*.env
+

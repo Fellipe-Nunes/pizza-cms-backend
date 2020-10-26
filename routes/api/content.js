@@ -4,9 +4,7 @@ const auth = require('../../middleaware/auth')
 const file = require('../../middleaware/file_content')
 const { check, validationResult } = require('express-validator');
 const router = express.Router();
-const bcrypt = require('bcryptjs');
 const MSGS = require('../../messages')
-const config = require('config');
 const get_complete_link = require('../../service/get_complete_link')
 
 // @route    DELETE /content/:contentId
